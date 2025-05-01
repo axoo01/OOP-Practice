@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LandMgtSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LandMgtSystem_jar</output-path>
+    <root id="archive" name="LandMgtSystem.jar">
+      <element id="module-output" name="practice" />
+    </root>
+  </artifact>
+</component>
